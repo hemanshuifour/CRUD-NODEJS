@@ -26,4 +26,3 @@ module.exports = {
     updateTask,
     deleteTask
 }
-console
